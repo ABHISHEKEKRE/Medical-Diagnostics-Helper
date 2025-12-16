@@ -1,1 +1,1 @@
-I just created a dataset thats ready to be used for machine learning or deep learning model. I used french dataset containing symptoms, antecedants and converted into english. The dataset link will be provided in drive. 
+I just created a dataset thats ready to be used for machine learning or deep learning model. I used french dataset containing 1 million records of patients containing symptoms, antecedants and converted into english. The dataset link will be provided in drive. 
